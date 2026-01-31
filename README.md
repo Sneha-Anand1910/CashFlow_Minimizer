@@ -8,7 +8,7 @@ The project models transactions as a directed graph using an adjacency matrix an
 ---
 
 ## Problem Statement
-In group expense scenarios such as trips, events, or shared spending, multiple transactions between people make final settlement complex and error-prone.
+In group expense scenarios such as trips, events,or shared spending, multiple transactions between people make final settlement complex and error-prone.
 
 This project simplifies the settlement process by:
 - Calculating the net balance for each participant
