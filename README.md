@@ -61,8 +61,8 @@ This greedy approach minimizes the total number of transactions.
 ---
 
 ## Project Structure
-CashFlow_Minimizer/
+```CashFlow_Minimizer/
 ├── main.c // Program entry point
 ├── cashflow.c // Core cashflow minimization logic
 ├── cashflow.h // Function declarations and constants
-└── README.md // Project documentation
+└── README.md // Project documentation ```
